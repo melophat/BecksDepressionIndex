@@ -1,0 +1,2 @@
+recursive-include bdi/templates *
+recursive-include bdi/static *
